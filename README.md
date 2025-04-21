@@ -32,6 +32,7 @@ This project is a Machine Learning solution for recognizing handwritten digits u
 - Deployed model for inference on new digit samples (optional)
 
 ---
+### Sample Predictions
+Here are some sample predictions made by the model:
 
-## 📁 Project Structure
-
+![Sample Predictions](images/sample_predictions.png)
