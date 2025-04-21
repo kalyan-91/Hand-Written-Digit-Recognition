@@ -35,4 +35,4 @@ This project is a Machine Learning solution for recognizing handwritten digits u
 ### Sample Predictions
 Here are some sample predictions made by the model:
 
-![Sample Predictions](images/sample_predictions.png)
+![Sample Predictions](https://github.com/kalyan-91/Hand-Written-Digit-Recognition/blob/main/output.png)
